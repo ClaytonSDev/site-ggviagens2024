@@ -1,0 +1,21 @@
+
+@charset "UTF-8";
+
+
+:root {
+    --cor0:var(#CD6F01);
+    --cor1:var(#C16B08);
+    --cor2:var(#DB8E21);
+    --cor3:var(#E4A73C);
+    --cor4:var(#FAE079);
+    --cor5:var(#FFEDA4);  
+
+    --fonte-padrao: Arial, Verdana, helvectia, sans serif;
+    --fonte-destaque:
+}
+
+
+
+body {
+    background-color: var(--cor2);
+}
