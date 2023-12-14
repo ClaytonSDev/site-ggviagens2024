@@ -96,6 +96,35 @@ main p {
     text-align: justify;
 }
 
+.container {
+    display: flex;
+}
+
+.imgwhatts {
+    margin-right: 10px;
+    width: 30px;
+    height: 350px;
+    display: block;
+    padding: 10px;
+    text-align: center;
+}
+
+.imginsta {
+    margin-right: 10px;
+    width: 60px;
+    height: 120px;
+    display: block;
+    padding: 10px;
+}
+
+.imgface {
+    margin-right: 10px;
+    width: 60px;
+    height: 120px;
+    display: block;
+    padding: 10px;
+}
+
 footer {
     background-color: #C16B08;
     color: #FFEDA4;
