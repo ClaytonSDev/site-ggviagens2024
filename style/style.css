@@ -98,11 +98,12 @@ main p {
 
 .container {
     display: flex;
+        
 }
 
 .imgwhatts {
     margin-right: 10px;
-    width: 30px;
+    width: 20px;
     height: 350px;
     display: block;
     padding: 10px;
@@ -111,21 +112,22 @@ main p {
 
 .imginsta {
     margin-right: 10px;
-    width: 60px;
-    height: 120px;
+    width: 20px;
+    height: 350px;
     display: block;
     padding: 10px;
 }
 
 .imgface {
     margin-right: 10px;
-    width: 60px;
-    height: 120px;
+    width: 20px;
+    height: 350px;
     display: block;
     padding: 10px;
 }
 
 footer {
-    background-color: #C16B08;
+    background-color: #000000;
     color: #FFEDA4;
+    text-align: center;
 }
