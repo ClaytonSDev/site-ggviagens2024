@@ -74,13 +74,13 @@ nav > a:hover {
 }
 
 main {
-    background-color:#DB8E21;
+    background-color:#C16B08;
     padding: auto;
     border-radius: 10px;
     min-width: 300px;
     max-width: 900px;
     margin: auto;
-    box-shadow: 0px 0px 10px #000000;
+    box-shadow: 0px 0px 10px #00000092;
 }
 
 main img {
@@ -94,11 +94,15 @@ main img {
 main p {
     margin: 15px 10px 20px 10px;
     text-align: justify;
-    color:#000000;
+    color:#FFEDA4;
+}
+
+.folder {
+    display: flex;
 }
 
 .container {
-    display: flex;
+    display:flex;
         
 }
 
